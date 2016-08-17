@@ -11,6 +11,8 @@ color:
     - '#FBB9BF'
     - '#E376B7'
 layout_spectrum: 0.26468194322660565
+author:
+  name: Philip J Owen
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a810424-1731-45dc-92c5-53010d165996.png
 name: mysticky
