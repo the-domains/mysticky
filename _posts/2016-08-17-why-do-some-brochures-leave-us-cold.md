@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-17T15:31:17.760Z'
+datePublished: '2016-08-17T15:32:51.124Z'
 sourcePath: _posts/2016-08-17-why-do-some-brochures-leave-us-cold.md
 author: []
 via: {}
-dateModified: '2016-08-17T15:31:17.292Z'
+dateModified: '2016-08-17T15:32:50.584Z'
 title: Why do some brochures leave us cold?
 publisher: {}
 description: >-
