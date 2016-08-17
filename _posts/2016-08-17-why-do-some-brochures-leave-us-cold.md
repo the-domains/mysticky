@@ -1,22 +1,21 @@
 ---
-description: Why do some brochures leave us cold?
-dateModified: '2016-08-17T15:28:44.999Z'
-datePublished: '2016-08-17T15:28:50.542Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-17T15:30:35.746Z'
 sourcePath: _posts/2016-08-17-why-do-some-brochures-leave-us-cold.md
+author: []
+via: {}
+dateModified: '2016-08-17T15:30:35.363Z'
+title: ''
+publisher: {}
+description: Why do some brochures leave us cold?
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e664dd53-e632-4480-a41b-0413afddb997.png)
-
 **Why do some brochures leave us cold?**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e664dd53-e632-4480-a41b-0413afddb997.png)
 
 Presented in a compelling and tactile way a business message can engage in a powerful way. Brochures and marketing sales aids are enjoying something of a resurgence, but why do many of them fail?
 
