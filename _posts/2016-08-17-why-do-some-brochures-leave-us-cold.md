@@ -1,15 +1,15 @@
 ---
-datePublished: '2016-08-17T15:32:51.124Z'
+datePublished: '2016-08-17T16:29:19.971Z'
 sourcePath: _posts/2016-08-17-why-do-some-brochures-leave-us-cold.md
 author: []
 via: {}
-dateModified: '2016-08-17T15:32:50.584Z'
+dateModified: '2016-08-17T16:29:19.602Z'
 title: Why do some brochures leave us cold?
 publisher: {}
 description: >-
-  Presented in a compelling and tactile way a business message can engage in a
-  powerful way. Brochures and marketing sales aids are enjoying something of a
-  resurgence, but why do many of them fail?
+  Online is great, but presented in a physical, compelling and tactile way a
+  business message can engage in a powerful way. Brochures and marketing sales
+  aids are enjoying something of a resurgence, but why do many of them fail?
 starred: false
 inFeed: true
 hasPage: false
@@ -20,9 +20,9 @@ _type: MediaObject
 # **Why do some brochures leave us cold?**
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e664dd53-e632-4480-a41b-0413afddb997.png)
 
-Presented in a compelling and tactile way a business message can engage in a powerful way. Brochures and marketing sales aids are enjoying something of a resurgence, but why do many of them fail?
+Online is great, but presented in a physical, compelling and tactile way a business message can engage in a powerful way. Brochures and marketing sales aids are enjoying something of a resurgence, but why do many of them fail?
 
-We think they go wrong by not following some golden rules. We think good brochure design should:
+We think they go wrong by not following some simple golden rules. We think good brochure design should:
 
 * have a single message or purpose at its core
 * include the right balance of inspirational and informational content
