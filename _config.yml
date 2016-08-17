@@ -1,0 +1,14 @@
+layout_spectrum: 0.26468194322660565
+typography_spectrum: 0.20457308716140687
+color:
+  brandStrength: 0.2774695004336536
+  lightness: 0.7650254466570914
+  saturation: 0.2904368075542152
+  rhythmicContrast: 0.7677805982530117
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: mysticky
