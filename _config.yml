@@ -16,5 +16,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8a810424-1731-45dc-92c5-53010d165996.png
 name: mysticky
+navigation:
+  - name: About us
+    id: 1d13c25c-1e47-4dc0-8aef-493b7b1d60ce
+    type: content
 title: Creative & Design for Business
 description: Design & Digital for Business
