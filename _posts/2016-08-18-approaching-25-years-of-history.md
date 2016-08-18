@@ -4,8 +4,8 @@ description: >-
   exact, just a few weeks after Phil Owen and Francesca Law married and smack
   bang in the middle of the economic recession following the Thatcher years of
   the crazy 80s.
-dateModified: '2016-08-18T11:21:04.921Z'
-datePublished: '2016-08-18T11:22:22.524Z'
+dateModified: '2016-08-18T11:24:18.989Z'
+datePublished: '2016-08-18T11:24:23.951Z'
 title: Approaching 25 years of history
 author:
   - {}
@@ -13,12 +13,11 @@ publisher:
   name: Upsplash
   url: 'https://hd.unsplash.com/photo-1466690672306-5f92132f7248'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-approaching-25-years-of-history.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: approaching-25-years-of-history/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2929a23e-d8f3-43a0-be72-392fa34b42d2.jpg)
