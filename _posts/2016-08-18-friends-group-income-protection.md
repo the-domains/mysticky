@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-08-18T15:12:47.608Z'
+datePublished: '2016-08-18T15:15:10.143Z'
+sourcePath: _posts/2016-08-18-friends-group-income-protection.md
+hasPage: true
 keywords:
   - gip
   - friends
@@ -14,8 +16,8 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-18T15:12:47.128Z'
-title: 'Friends Group Income Protection '
+dateModified: '2016-08-18T15:15:08.929Z'
+title: Friends Group Income Protection
 app_links: []
 publisher: {}
 description: >-
@@ -24,15 +26,14 @@ description: >-
   they become ill or injured and are unable to work, plus additional products to
   support employers.
 inLanguage: en
-sourcePath: _posts/2016-08-18-friends-group-income-protection.md
-hasPage: true
 starred: false
 url: friends-group-income-protection/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# Friends Group Income Protection ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bbce12-653d-4b62-954a-07b2f6ced26d.jpg)
+# Friends Group Income Protection
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3bbce12-653d-4b62-954a-07b2f6ced26d.jpg)
 
 ### GIP Brochure and PPT Project
 
