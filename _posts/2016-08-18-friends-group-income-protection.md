@@ -1,7 +1,5 @@
 ---
-datePublished: '2016-08-18T15:11:18.393Z'
-isBasedOnUrl: >-
-  https://mysticky.co.uk/portfolio-item/friends-life-group-income-protection-welcome-pack/
+datePublished: '2016-08-18T15:12:47.608Z'
 keywords:
   - gip
   - friends
@@ -16,7 +14,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-18T15:10:40.024Z'
+dateModified: '2016-08-18T15:12:47.128Z'
 title: 'Friends Group Income Protection '
 app_links: []
 publisher: {}
@@ -26,11 +24,10 @@ description: >-
   they become ill or injured and are unable to work, plus additional products to
   support employers.
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-18-friends-group-income-protection.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: friends-group-income-protection/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
