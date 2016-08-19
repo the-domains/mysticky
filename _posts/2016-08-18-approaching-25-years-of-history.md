@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-18T13:38:53.692Z'
+datePublished: '2016-08-19T14:49:39.884Z'
+sourcePath: _posts/2016-08-18-approaching-25-years-of-history.md
 isBasedOnUrl: ''
 author:
   - {}
@@ -21,19 +22,16 @@ metadata:
     exact, just a few weeks after Phil Owen and Francesca Law married and smack
     bang in the middle of the economic recession following the Thatcher years of
     the crazy 80s.
-dateModified: '2016-08-18T13:38:53.225Z'
+dateModified: '2016-08-19T14:49:39.447Z'
 title: Approaching 25 years of history
 id: 1d13c25c-1e47-4dc0-8aef-493b7b1d60ce
-publisher:
-  name: Upsplash
-  url: 'https://hd.unsplash.com/photo-1466690672306-5f92132f7248'
+publisher: {}
 description: >-
   Sticky was established in 1992. Actually it began in November 1992 to be
   exact, just a few weeks after Phil Owen and Francesca Law married and smack
   bang in the middle of the economic recession following the Thatcher years of
   the crazy 80s.
 starred: false
-sourcePath: _posts/2016-08-18-approaching-25-years-of-history.md
 inFeed: true
 hasPage: false
 inNav: false
