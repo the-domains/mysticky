@@ -17,11 +17,11 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c5ded8-3a35-46e0-98d1-ec702705678c.png
 name: mysticky
 navigation:
-  - name: About us
-    id: 1d13c25c-1e47-4dc0-8aef-493b7b1d60ce
-    type: content
   - name: 'Friends Group Income Protection '
     id: 17fafd8e-e807-4bb8-a1e4-4ee6d00e9e17
+    type: content
+  - name: About us
+    id: 1d13c25c-1e47-4dc0-8aef-493b7b1d60ce
     type: content
 title: Creative & Design for Business
 description: Design & Digital for Business
